@@ -1,5 +1,4 @@
-Overcoming Implementation Barriers and Resistance to Change with AI-Enabled Organizational Change Management and Training
-=================================================================================================================================================================================
+
 
 Implementing AI technology in a small business can pose significant challenges, including implementation barriers and resistance to change. In this chapter, we will explore the key components of overcoming these challenges with AI-enabled organizational change management and training.
 
