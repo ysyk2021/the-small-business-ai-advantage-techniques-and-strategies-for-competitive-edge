@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the different types of AI techniques and platforms available for small businesses to leverage for various use cases.
 
 Natural Language Processing (NLP)

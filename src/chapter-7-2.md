@@ -1,5 +1,4 @@
 
-
 To evaluate the impact of AI technology on small business competitive advantage, it is important to identify key performance metrics and goals for AI-enabled small business improvement and optimization. In this chapter, we will explore the key components of evaluating the impact of AI on small business competitive advantage.
 
 Identifying Key Performance Metrics

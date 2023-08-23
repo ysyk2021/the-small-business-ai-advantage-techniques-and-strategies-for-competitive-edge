@@ -1,5 +1,4 @@
 
-
 In this chapter, we'll explore the tools and software available for small businesses to leverage AI technology for planning and performance tracking.
 
 AI-Enabled Planning Tools
