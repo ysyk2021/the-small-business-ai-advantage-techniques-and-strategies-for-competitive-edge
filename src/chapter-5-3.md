@@ -1,5 +1,4 @@
-Chapter 6: Enhancing Business Growth Opportunities with AI-Enabled Investment Analysis and Forecasting
-======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how small businesses can harness the power of AI to bolster their investment analysis and forecasting efforts. By leveraging AI-driven tools and strategies, small businesses can identify growth opportunities, make informed investment decisions, and strengthen their competitive edge in the marketplace.
 

@@ -1,5 +1,4 @@
-Chapter 6: Improving Customer Targeting and Segmentation with AI-Enabled Predictive Analytics
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the pivotal role that Artificial Intelligence (AI) plays in enhancing customer targeting and segmentation strategies for small businesses. AI-driven predictive analytics empowers businesses to better understand their customer base, anticipate their needs, and tailor marketing efforts accordingly. We will explore various techniques and strategies to harness AI for improved customer targeting and segmentation.
 

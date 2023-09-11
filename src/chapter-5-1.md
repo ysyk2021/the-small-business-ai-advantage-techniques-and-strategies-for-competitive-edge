@@ -1,5 +1,4 @@
-Chapter 6: Improving Business Performance and Profitability with AI-Enabled Financial Analytics and Insights
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative potential of AI-powered financial analytics and insights for small businesses. Leveraging advanced AI technologies, small businesses can gain a deeper understanding of their financial data, optimize their operations, and enhance profitability.
 

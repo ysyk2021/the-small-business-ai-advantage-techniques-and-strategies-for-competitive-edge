@@ -1,5 +1,4 @@
-Chapter 11: Identifying Key Performance Metrics and Goals for AI-Enabled Small Business Improvement and Optimization
-====================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the essential process of identifying key performance metrics and setting strategic goals for leveraging AI in small businesses. To maximize the benefits of AI, it's crucial to establish clear objectives and metrics that align with your business's growth and improvement strategies.
 

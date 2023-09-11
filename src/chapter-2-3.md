@@ -1,5 +1,4 @@
-Chapter 8: Tools and Software for AI-Enabled Small Business Planning and Performance Tracking
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of tools and software solutions that are instrumental in enabling small businesses to plan, implement, and track AI strategies for competitive advantage. These tools empower organizations to harness the full potential of AI technologies effectively.
 

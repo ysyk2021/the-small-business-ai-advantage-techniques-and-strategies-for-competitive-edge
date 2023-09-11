@@ -1,5 +1,4 @@
-Chapter 9: Reducing Risk and Fraud with AI-Enabled Fraud Detection and Prevention
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical role of Artificial Intelligence (AI) in reducing risks and combating fraud within small businesses. As technology advances, so do the tactics of fraudsters and the complexity of risks faced by businesses. AI offers sophisticated solutions to detect and prevent fraudulent activities while safeguarding the integrity of your business operations.
 

@@ -1,5 +1,4 @@
-Chapter 4: Different Types of AI Techniques and Platforms for Small Business Use Cases
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a wide array of AI techniques and platforms tailored to meet the unique needs and challenges of small businesses. By understanding the various AI approaches available, small business owners can make informed decisions about which techniques and platforms best align with their specific use cases.
 
